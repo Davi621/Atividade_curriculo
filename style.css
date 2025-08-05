@@ -1,0 +1,10 @@
+h1{
+    color:blue;
+    font-size:large;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: darkred;
+}
